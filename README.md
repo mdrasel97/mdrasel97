@@ -11,7 +11,7 @@
 ## 🧑‍💻 About Me
 
 Assalamu Alaikum! I'm MD RASEL from Bangladesh(BD)  
-I'm a full-stack web developer with a focus on **MERN stack** development. Alongside my tech journey.
+I'm a full-stack web developer with a focus on **MERN stack** development. Alongside my tech journey. and I’m always excited to learn new technologies.
 
 ---
 
