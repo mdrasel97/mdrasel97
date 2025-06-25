@@ -1,5 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
+  <img src="[https://i.ibb.co/GpVwJHZ/banner-image.jpg](https://i.ibb.co/7xzfHYX2/Black-Flatlay-Photo-Motivational-Finance-Quote-Facebook-Cover.png)" alt="Banner" width="100%" />
   <img src="https://i.ibb.co/GpVwJHZ/banner-image.jpg" alt="Banner" width="100%" />
 </p>
 
