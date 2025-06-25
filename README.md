@@ -16,11 +16,10 @@ I'm a full-stack web developer with a focus on **MERN stack** development. Along
 ---
 
 ## 🚀 What I'm Doing Now
-- 🔍 Exploring **Next.js and chadcn/ui**
+- 🔍 Exploring **React.js and chadcn/ui**
 - 🛠️ Building a **Parcel Delivery Web App** named `proFast`
-- 🧒 Working on a **Kids' School Website**
 - ☁️ Improving skills in **Firebase Auth & Deployment**
-- 🎯 Learning **TypeScript & TailwindCSS**
+- 🎯 Learning **JavaScript & TailwindCSS**
 
 ---
 
