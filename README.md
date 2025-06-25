@@ -55,15 +55,14 @@ I'm a full-stack web developer with a focus on **MERN stack** development. Along
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-rasel&show_icons=true&theme=github_dark" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=md-rasel&theme=github-dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=md-rasel&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=md-rasel&theme=github-dark&hide_border=true&border_radius=10" height="150" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rasel&layout=compact&theme=github_dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rasel&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150" alt="Top languages" />
 </p>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=md-rasel&label=Profile%20views&color=0e75b6&style=flat" />
