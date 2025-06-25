@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/7xzfHYX2/Black-Flatlay-Photo-Motivational-Finance-Quote-Facebook-Cover.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/23KNXtQb/Facebook-Cover-04.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi👋, I'm MD RASEL</h1>
