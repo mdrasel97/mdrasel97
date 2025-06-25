@@ -3,22 +3,22 @@
   <img src="https://i.ibb.co/GpVwJHZ/banner-image.jpg" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm MD RASEL 👋</h1>
-<h3 align="center">A Passionate Web Developer & Student of Islamic Studies</h3>
+<h1 align="center">Hi👋, I'm MD RASEL</h1>
+<h3 align="center">A Passionate Full-Stack Web Developer & Student of Islamic Studies</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Assalamu Alaikum! I'm MD RASEL from Bangladesh 🇧🇩  
-I'm a full-stack web developer with a focus on **MERN stack** development. Alongside my tech journey, I'm also a dedicated Islamic studies student.
+Assalamu Alaikum! I'm MD RASEL from Bangladesh(BD)  
+I'm a full-stack web developer with a focus on **MERN stack** development. Alongside my tech journey.
 
 ---
 
 ## 🚀 What I'm Doing Now
-- 🔍 Exploring **Next.js**
+- 🔍 Exploring **Next.js and chadcn/ui**
 - 🛠️ Building a **Parcel Delivery Web App** named `proFast`
-- 🧒 Working on a **Kids' Islamic School Website**
+- 🧒 Working on a **Kids' School Website**
 - ☁️ Improving skills in **Firebase Auth & Deployment**
 - 🎯 Learning **TypeScript & TailwindCSS**
 
