@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://i.ibb.co/23KNXtQb/Facebook-Cover-04.png" alt="Banner" width="100%" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=md-rasel&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 <h1 align="center">Hi👋, I'm MD RASEL</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer & Student of Islamic Studies</h3>
@@ -62,7 +65,3 @@ I'm a full-stack web developer with a focus on **MERN stack** development. Along
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rasel&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150" alt="Top languages" />
 </p>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-rasel&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
