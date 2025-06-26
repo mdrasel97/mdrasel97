@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://i.ibb.co/23KNXtQb/Facebook-Cover-04.png" alt="Banner" width="100%" />
 </p>
-<p align="center">
+<p align="">
   <img src="https://komarev.com/ghpvc/?username=md-rasel&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
