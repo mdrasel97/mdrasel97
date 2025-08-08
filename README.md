@@ -11,12 +11,16 @@
 
 ---
 
-## :chart_with_upwards_trend: Current Stats
-
-<br />
+<!-- Streak -->
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mdrasel97&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=mdrasel97&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7" alt="streak-stats"/>
 </p>
+
+<!-- GitHub readme stats -->
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=mdrasel97&show_icons=true&theme=react&hide_border=true&count_private=true" alt="github-stats"/>
+</p>
+
 
 ---
 
