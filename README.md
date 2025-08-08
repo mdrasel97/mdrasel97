@@ -12,9 +12,9 @@
 ---
 
 <!-- Streak -->
-<p align="center">
+<!--p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=mdrasel97&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7" alt="streak-stats"/>
-</p>
+</p -->
 
 <!-- GitHub readme stats -->
 <p align="center">
