@@ -11,14 +11,21 @@
 
 ---
 
-<!-- Streak -->
-<!--p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=mdrasel97&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7" alt="streak-stats"/>
-</p -->
+## 📈 My GitHub Stats
 
-<!-- GitHub readme stats -->
+<!-- 🔥 Streak Stats -->
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=mdrasel97&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="streak-stats"/>
+</p>
+
+<!-- 📊 Overall Stats -->
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=mdrasel97&show_icons=true&theme=react&hide_border=true&count_private=true" alt="github-stats"/>
+</p>
+
+<!-- 🏆 Top Languages -->
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrasel97&layout=compact&theme=react&hide_border=true&hide=C,C++" alt="top-langs"/>
 </p>
 
 
