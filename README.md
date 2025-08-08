@@ -25,7 +25,7 @@
 
 <!-- 🏆 Top Languages -->
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrasel97&layout=compact&theme=react&hide_border=true&hide=C,C++" alt="top-langs"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrasel97&layout=compact&theme=react&hide_border=true&hide=C,C++&count_private=true" alt="top-langs"/>
 </p>
 
 
