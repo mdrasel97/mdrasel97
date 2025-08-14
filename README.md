@@ -55,8 +55,18 @@ I'm a full-stack web developer focused on **MERN stack** development. Alongside 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="mailto:rasel@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/mdrasel-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mollarasel972@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rasel-developer/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="tel:+8801830244297">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=flat&logo=whatsapp&logoColor=white" alt="Phone"/>
+</a>
+
   <a href="https://github.com/mdrasel97" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://youtube.com/@IslamTimesBangla" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
