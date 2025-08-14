@@ -63,9 +63,10 @@ I'm a full-stack web developer focused on **MERN stack** development. Alongside 
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="tel:+8801830244297" target="_blank">
-  <img src="https://img.shields.io/badge/Phone-25D366?style=flat&logo=whatsapp&logoColor=white" alt="Phone"/>
+<a href="https://wa.me/8801830244297" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
+
   <a href="https://github.com/mdrasel97" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://youtube.com/@IslamTimesBangla" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
